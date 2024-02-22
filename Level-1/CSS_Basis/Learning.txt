@@ -1,0 +1,8 @@
+#1 CSS Setups 
+
+i.Dont write css file name with spaces ,rather than write it using single name or underScore or "-" or using CamelCase.
+
+**Repeatative Step:-
+    1.Create HTML file and CSS file
+    2.Write Their Boilerplate code for html and css files.
+    3.And Then Link both the file using link tag i.e  <link rel="stylesheet" href="filename.css">
