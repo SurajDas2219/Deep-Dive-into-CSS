@@ -6,3 +6,35 @@ i.Dont write css file name with spaces ,rather than write it using single name o
     1.Create HTML file and CSS file
     2.Write Their Boilerplate code for html and css files.
     3.And Then Link both the file using link tag i.e  <link rel="stylesheet" href="filename.css">
+
+
+#2 Table of content to be learned :
+
+    i. Width and height.
+   ii. color & background color.
+  iii. units:-px,%,vw,vh,em,rem.
+   iv. max-width & max-height.
+    v. font-family.
+   vi. font-size.
+  vii. line-height.
+ viii. padding.
+   ix. margin.
+    x. border.
+   xi. text-align.
+  xii. display.
+ xiii. position.
+  xiv. flex.
+   xv. pseudo-element.
+  xvi. pseudo-class.
+ xvii. Animation.
+xviii. Media Queries.
+  xix. Grid.
+
+ I. Width and Height
+ -> A div can be called as a rectangle which has a width but no height.
+ -For div to be visible, we must assign height and width to it and also the background color.
+
+ II.color and background
+ -> Color is related to text color where as background color refer to background color.
+
+
