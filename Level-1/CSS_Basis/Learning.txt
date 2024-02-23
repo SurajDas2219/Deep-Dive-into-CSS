@@ -37,4 +37,23 @@ xviii. Media Queries.
  II.color and background
  -> Color is related to text color where as background color refer to background color.
 
+ III.units:-px,%,vh,vw,em,rem
+ -> px:-1px pixel depends upon the screen resolution .
+    It is not a good practice to use px but we csn use it some time.
+    px get change depends upon the screen size.
+    That leads to the scroller down the screen.
+
+    % :- It depends upon the screen and its cahnge with respect to screen size.
+    for example,if we give a div widht of 70% that means it is equal to 70% of its parent div.
+    % takes the vale from its parent div
+
+    vh & vw:-takes the value from the screen
+
+    em:-depends upon the font size of the element ,if font-size of the element is 16 px and width and height of the element is 2em then the font size is 16*2 px==32px.
+
+    rem:-its depend upon the root element i.e html
+
+  IV.max width and max height of the element
+  -> Max-Height or Max Width give a certain limit to the height and width of the element even if we increase the height or width of the element it does not get changed.
+  vice-verse to min height and min width.
 
