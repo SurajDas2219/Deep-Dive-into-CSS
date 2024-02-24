@@ -57,3 +57,19 @@ xviii. Media Queries.
   -> Max-Height or Max Width give a certain limit to the height and width of the element even if we increase the height or width of the element it does not get changed.
   vice-verse to min height and min width.
 
+  V.Font family 
+  ->To use font we can download the google font and we can just install it it our system.
+    sytax:font-family:font name;
+
+  VI.Font size 
+  ->It is use to change the size of the font.
+    Beat practice is that use vh as it get adjust as the screen-size get change.
+    using px is not consider as good practice.
+    sytax:font-size:5vw/60px
+    other properties related to font:
+    text-decoration:none,overline,underline,line-through.
+    text-transform:capitalize,uppercase,lowercase,none.
+    text-align:center,justify,left,right.
+    font-weight:100,bold.
+    line-height:1.2.
+
