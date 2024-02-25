@@ -84,3 +84,15 @@ xviii. Media Queries.
     IX.border
     ->it is given to the element itself.
 
+    X.Display
+    two types:-block and inline
+    ->html tags usually have two types block or inline.
+    **Block
+    if any element is a block element,it wont allow any other element beside him.
+    to make it happen ,we have to make that element display:inline.
+    Block will not allow anyone to come in front or back of the block element.
+    **Inline
+    if there is a space it will allow an element to be in it vacant space.
+    but we cant change the height or width of the element
+    **InlineBlock
+    If we make an block an element an inline block the it will allow the element to be inline element.
