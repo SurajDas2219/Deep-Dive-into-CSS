@@ -73,3 +73,14 @@ xviii. Media Queries.
     font-weight:100,bold.
     line-height:1.2.
 
+    VII.Padding.
+    ->It is given to the element present inside the box.
+
+    VIII.margin
+    ->it is used to give space outside the box.
+    sytax:-margin:30px i.e 30px on top and left of the box
+    margin:-30px 20px means top&bottom-30px and 20px left&right.
+
+    IX.border
+    ->it is given to the element itself.
+
