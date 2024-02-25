@@ -96,3 +96,14 @@ xviii. Media Queries.
     but we cant change the height or width of the element
     **InlineBlock
     If we make an block an element an inline block the it will allow the element to be inline element.
+
+    XI.position
+    There are two type of position 
+    1.position relative.
+    2.position absolute.
+
+    **Position relative
+    Making a div position relative will not allow its child to move outside the parent element.
+
+    **Position absolute
+    Making a div position absolute will  allow its child to move over the entire screen.
