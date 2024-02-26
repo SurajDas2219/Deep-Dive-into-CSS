@@ -107,3 +107,18 @@ xviii. Media Queries.
 
     **Position absolute
     Making a div position absolute will  allow its child to move over the entire screen.
+
+    ##background
+    We can add background image to our website
+    sytax:background-image:url(images addresse)
+          background-size: cover(to fit the background or the entire image).
+          background-position:center(to see the centre part of the image).
+          background properties itself have a lot of type
+          1.background-image:url(images addresse)
+          2.background-color:
+          3.background:linear gradient()
+
+          to make div center "OR" H1 do this
+          *position:absolute
+          *top=50%
+          *left=50%
