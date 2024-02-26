@@ -122,3 +122,16 @@ xviii. Media Queries.
           *position:absolute
           *top=50%
           *left=50%
+
+      XII-flex
+      it is use for positioning the element in the div with
+      mainly parent div is set as display:flex.
+      such that the child element or div arrange them self in a horizontal direction
+      By default the direction of the flex is horizontal
+
+      There are two axis
+      1.x-axis:main axis
+      2.y-axis:cross axis
+
+
+  
