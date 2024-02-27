@@ -134,4 +134,14 @@ xviii. Media Queries.
       2.y-axis:cross axis
 
 
+    XV.pseudo-element-
+    ->::before
+      ::after
+      ::first-letter
+      ::first-line
+      ::selection
+
+      to Active pseudo-elements we must added content.
+
+
   
