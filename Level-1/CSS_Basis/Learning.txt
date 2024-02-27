@@ -143,5 +143,11 @@ xviii. Media Queries.
 
       to Active pseudo-elements we must added content.
 
+    XVI.pseudo-class
+    ->::hover
+      ::active
+      ::focus
+      ::nth-child(n)
+
 
   
