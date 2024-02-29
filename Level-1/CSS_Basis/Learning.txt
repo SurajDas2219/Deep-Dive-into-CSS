@@ -149,5 +149,18 @@ xviii. Media Queries.
       ::focus
       ::nth-child(n)
 
+    ##Grid
+    Difference between flex and Grid elements
+    flex works with single dimension.
+    Grid works with 2 dimension.
+    snytax
+    display:Grid
+    Grid-template-column
+    Grid-template-row
+    align-items:
+    justify-items:
+    align-content:
+    justify-content:
+
 
   
